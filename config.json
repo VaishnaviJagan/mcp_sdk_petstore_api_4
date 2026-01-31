@@ -1,0 +1,10 @@
+{
+  "session_id": "standalone",
+  "server_name": "mcp_sdk_petstore_api_4",
+  "base_url": "https://petstore3.swagger.io/api/v3",
+  "host": "0.0.0.0",
+  "port": 8000,
+  "auth_config": null,
+  "description": "Standalone MCP Server for mcp_sdk_petstore_api_4",
+  "generated_at": "2026-01-31T11:48:46.289199"
+}
